@@ -1,2 +1,2 @@
-Initiilize project
+Initilize project
 Add feature 1
