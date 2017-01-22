@@ -1,4 +1,4 @@
 Initiilize project
 Add feature 1
 Add full feature 2
-Add feature3.1
+Add feature3.2
