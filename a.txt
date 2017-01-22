@@ -2,4 +2,3 @@ Initilize project
 Add feature 1
 Add full feature 2
 Add feature 3.1
-
